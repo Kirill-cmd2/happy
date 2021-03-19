@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(231, 233, 151);
+    font-family: Tahoma, sans-serif;
+    line-height: 1.5;
+    color: #2929d9;
+    text-align: center;
+}
+.header{
+    line-height: 1.5;
+    display: block;
+}
+.header-1{
+    display: block;
+    color:rgb(4, 157, 228);
+}
+.h1{
+    margin: 10 auto;
+}
+.feature{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color:rgb(23, 79, 199);
+}
+.col{
+    display: block;
+    margin-top: 20px;
+}
+.st{
+    font-style: italic;
+}
